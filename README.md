@@ -9,9 +9,9 @@
 ## Posting new topics
 1. Click on **Issues** tab.
 2. Press **New Issue** button.
-3. Give a descriptive title and write about the Issue in more deatill in the areit area below **Title** edit box.
-4. You can't give a label for your new Issue, those will added later to help
-5. It can take many days before getting feedback on your issue, so be patient.
+3. Give a descriptive title and write about the tpic in more deatill in the area below **Title** edit box.
+4. You can't give a label for your new topic, those will added later.
+5. It can take some days before getting feedback on your topic, so be patient.
 
 ## Commenting on existing topics
   * Yes, please do.
