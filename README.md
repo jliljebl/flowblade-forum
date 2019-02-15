@@ -2,7 +2,9 @@
 
 *...this is still being build up but you can already post here.*
 
-**This is the place to post questions about Flowblade. We are using Github's Issue feature to create a very simple forum.**
+**This is the place to post questions about Flowblade.**
+
+**We are using Github's Issue feature to create a very simple forum.**
 
 ## Posting new topics
 1. Click on **Issues** tab.
@@ -16,4 +18,11 @@
  
 ## Forum rules
   * **Being polite and using common sense is always the way to go.**
+  
+  
+  
+# Topic Groups
+  [F.A.Q](https://github.com/jliljebl/flowblade-forum/labels/F.A.Q)
 
+  
+  
