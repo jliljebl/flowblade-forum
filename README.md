@@ -9,7 +9,7 @@ This the place to post questions about Flowblade. We are using Github's Issue fe
 2. Press **New Issue** button.
 3. Give a descriptive title and write about the Issue in more deatill in the areit area below **Title** edit box.
 4. You can't give a label for your new Issue, those will added later to help
-5. It can take many days before getting feedback on your issue, so be patioent.
+5. It can take many days before getting feedback on your issue, so be patient.
 
 ## Commenting on existing topics
   * Yes, please do.
