@@ -2,7 +2,7 @@
 
 *...this is still being build up but you can already post here.*
 
-**This is the place to post questions about Flowblade. We are using Github's Issue feature to create a very simple forum.
+**This is the place to post questions about Flowblade. We are using Github's Issue feature to create a very simple forum.**
 
 ## Posting new topics
 1. Click on **Issues** tab.
