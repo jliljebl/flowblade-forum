@@ -23,6 +23,8 @@
   
 # Topic Groups
   [F.A.Q](https://github.com/jliljebl/flowblade-forum/labels/F.A.Q)
+  
+  [Compositing](https://github.com/jliljebl/flowblade-forum/issues?q=is%3Aopen+is%3Aissue+label%3ACompositing)
 
   
   
