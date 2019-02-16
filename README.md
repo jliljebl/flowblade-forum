@@ -9,7 +9,7 @@
 ## Posting new topics
 1. Click on **Issues** tab.
 2. Press **New Issue** button.
-3. Give a descriptive title and write about the tpic in more deatill in the area below **Title** edit box.
+3. Give a descriptive title and write about the topic in more detail in the area below **Title** edit box.
 4. You can't give a label for your new topic, those will added later.
 5. It can take some days before getting feedback on your topic, so be patient.
 
