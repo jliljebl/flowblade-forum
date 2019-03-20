@@ -17,8 +17,8 @@
   * Yes, please do.
 
 ## Viewing threads
-  * For latest threads just click on *Issues* tab
-  * For threads on certain topics press on Topic Group links below
+  * For latest threads just click on **Issues** tab
+  * For threads on certain topics press on **Topic Group** links below
 
 # Topic Groups
   [F.A.Q](https://github.com/jliljebl/flowblade-forum/labels/F.A.Q)
