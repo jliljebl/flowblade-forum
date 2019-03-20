@@ -27,7 +27,7 @@
   
   [HowTo](https://github.com/jliljebl/flowblade-forum/labels/HowTo)
   
-  [HowTo](https://github.com/jliljebl/flowblade-forum/labels/Forum Meta)
+  [Forum Meta](https://github.com/jliljebl/flowblade-forum/labels/Forum Meta)
   
   ## Forum rules
   * **Being polite and using common sense is always the way to go.**
