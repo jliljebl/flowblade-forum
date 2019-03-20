@@ -30,7 +30,7 @@
   [ForumMETA](https://github.com/jliljebl/flowblade-forum/labels/ForumMETA)
   
   ## Forum rules
-  * **Being polite and using common sense is always the way to go.**
+  * **Being polite and using common sense is always the best approach to discussion.**
 
   
   
