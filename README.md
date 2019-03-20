@@ -1,10 +1,10 @@
 # Flowblade User Forum
 
-*...this is still being build up but you can already post here.*
-
-**This is the place to post questions about Flowblade.**
+**Welcome, this is the place to post questions about Flowblade.**
 
 **We are using Github's Issue feature to create a very simple forum.**
+
+**You will need to create a Github account to post here.**
 
 ## Posting new topics
 1. Click on **Issues** tab.
@@ -15,18 +15,20 @@
 
 ## Commenting on existing topics
   * Yes, please do.
- 
-## Forum rules
-  * **Being polite and using common sense is always the way to go.**
-  
-  
-  
+
+## Viewing threads
+  * For latest threads just click on *Issues* tab
+  * For threads on certain topics press on Topic Group links below
+
 # Topic Groups
   [F.A.Q](https://github.com/jliljebl/flowblade-forum/labels/F.A.Q)
   
   [Compositing](https://github.com/jliljebl/flowblade-forum/issues?q=is%3Aopen+is%3Aissue+label%3ACompositing)
   
   [HowTo](https://github.com/jliljebl/flowblade-forum/labels/HowTo)
+  
+  ## Forum rules
+  * **Being polite and using common sense is always the way to go.**
 
   
   
