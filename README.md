@@ -32,7 +32,18 @@
   
   [![ForumMETA](res/forummeta.png)](https://github.com/jliljebl/flowblade-forum/labels/ForumMETA)
   
+  [![AdvancedUsage](res/advancedusage.png)](https://github.com/jliljebl/flowblade-forum/labels/AdvancedUsage)
   
+  [![BasicUsage](res/basicusage.png)](https://github.com/jliljebl/flowblade-forum/labels/BasicUsage)
+  
+  [![DistroIssue](res/distroissue.png)](https://github.com/jliljebl/flowblade-forum/labels/DistroIssue)
+  
+  [![FeaturesDiscussion](res/featuresdiscussion.png)](https://github.com/jliljebl/flowblade-forum/labels/FeaturesDiscussion)
+    
+  [![GeneralInfo](res/generalinfo.png)](https://github.com/jliljebl/flowblade-forum/labels/GeneralInfo)
+
+  [![Rendering](res/rendered.png)](https://github.com/jliljebl/flowblade-forum/labels/Rendering)
+    
   ## Forum rules
   * **Being polite and using common sense is always the best approach to discussion.**
 
