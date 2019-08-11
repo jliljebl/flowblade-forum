@@ -21,6 +21,10 @@
   * For threads on certain topics press on **Topic Group** links below
 
 # Topic Groups
+![Flowblade](res/faq.png "FAQ")
+
+  [![F.A.Q](res/faq.png)](https://github.com/jliljebl/flowblade-forum/labels/F.A.Q)
+
   [F.A.Q](https://github.com/jliljebl/flowblade-forum/labels/F.A.Q)
   
   [Compositing](https://github.com/jliljebl/flowblade-forum/issues?q=is%3Aopen+is%3Aissue+label%3ACompositing)
