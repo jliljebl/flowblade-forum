@@ -22,27 +22,29 @@
 
 # Topic Groups
 
+### Popular
 
-  [![F.A.Q](res/faq.png)](https://github.com/jliljebl/flowblade-forum/labels/F.A.Q)
-  
-
-  [![Compositing](res/compositing.png)](https://github.com/jliljebl/flowblade-forum/issues?q=is%3Aopen+is%3Aissue+label%3ACompositing)
-    
-  [![HowTo](res/howto.png)](https://github.com/jliljebl/flowblade-forum/labels/HowTo)
-  
-  [![ForumMETA](res/forummeta.png)](https://github.com/jliljebl/flowblade-forum/labels/ForumMETA)
-  
-  [![AdvancedUsage](res/advancedusage.png)](https://github.com/jliljebl/flowblade-forum/labels/AdvancedUsage)
-  
   [![BasicUsage](res/basicusage.png)](https://github.com/jliljebl/flowblade-forum/labels/BasicUsage)
   
-  [![DistroIssue](res/distroissue.png)](https://github.com/jliljebl/flowblade-forum/labels/DistroIssue)
+  [![F.A.Q](res/faq.png)](https://github.com/jliljebl/flowblade-forum/labels/F.A.Q)
   
-  [![FeaturesDiscussion](res/featuresdiscussion.png)](https://github.com/jliljebl/flowblade-forum/labels/FeaturesDiscussion)
+  [![HowTo](res/howto.png)](https://github.com/jliljebl/flowblade-forum/labels/HowTo)
+  
+### Application functionality
+  
+  [![AdvancedUsage](res/advancedusage.png)](https://github.com/jliljebl/flowblade-forum/labels/AdvancedUsage)
+ 
+  [![Compositing](res/compositing.png)](https://github.com/jliljebl/flowblade-forum/issues?q=is%3Aopen+is%3Aissue+label%3ACompositing)
+  
+  [![Rendering](res/rendered.png)](https://github.com/jliljebl/flowblade-forum/labels/Rendering)
+  
+### General
+  
+  [![ForumMETA](res/forummeta.png)](https://github.com/jliljebl/flowblade-forum/labels/ForumMETA)
     
   [![GeneralInfo](res/generalinfo.png)](https://github.com/jliljebl/flowblade-forum/labels/GeneralInfo)
 
-  [![Rendering](res/rendered.png)](https://github.com/jliljebl/flowblade-forum/labels/Rendering)
+  [![DistroIssue](res/distroissue.png)](https://github.com/jliljebl/flowblade-forum/labels/DistroIssue)
     
   ## Forum rules
   * **Being polite and using common sense is always the best approach to discussion.**
