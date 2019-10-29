@@ -38,7 +38,7 @@
   
   [![Rendering](res/rendered.png)](https://github.com/jliljebl/flowblade-forum/labels/Rendering)
   
-### General
+### General Topics
   
   [![ForumMETA](res/forummeta.png)](https://github.com/jliljebl/flowblade-forum/labels/ForumMETA)
     
