@@ -34,6 +34,8 @@
   
   [![AdvancedUsage](res/advancedusage.png)](https://github.com/jliljebl/flowblade-forum/labels/AdvancedUsage)
  
+   [![Audio](res/audio.png)](https://github.com/jliljebl/flowblade-forum/labels/Audio)
+ 
   [![Compositing](res/compositing.png)](https://github.com/jliljebl/flowblade-forum/issues?q=is%3Aopen+is%3Aissue+label%3ACompositing)
   
   [![Rendering](res/rendered.png)](https://github.com/jliljebl/flowblade-forum/labels/Rendering)
