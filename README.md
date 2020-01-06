@@ -40,6 +40,9 @@
   
   [![Rendering](res/rendered.png)](https://github.com/jliljebl/flowblade-forum/labels/Rendering)
   
+  [![FeaturesDiscussion](res/featuresdiscussion.png)](https://github.com/jliljebl/flowblade-forum/labels/FeaturesDiscussion)
+
+  
 ### General Topics
   
   [![ForumMETA](res/forummeta.png)](https://github.com/jliljebl/flowblade-forum/labels/ForumMETA)
