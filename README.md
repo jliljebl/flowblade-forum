@@ -44,7 +44,8 @@
 
   
 ### General Topics
-  
+   [![MiscTopics](res/misctopics.png)](https://github.com/jliljebl/flowblade-forum/labels/MiscTopics)
+    
   [![ForumMETA](res/forummeta.png)](https://github.com/jliljebl/flowblade-forum/labels/ForumMETA)
     
   [![GeneralInfo](res/generalinfo.png)](https://github.com/jliljebl/flowblade-forum/labels/GeneralInfo)
